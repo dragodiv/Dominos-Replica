@@ -5,10 +5,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
+.banner{
     background-image: url(https://shorturl.at/bdwDI);
-    background-repeat: no-repeat;
-    
+    /* background-repeat: no-repeat; */
+    width: 100vw;
+    height: 100vh;
 }
 .cont{
     /* width: 95vw; */
