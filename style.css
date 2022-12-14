@@ -7,7 +7,7 @@
 }
 body{
     background-image: url(https://www.crazymasalafood.com/wp-content/images/2022/01/Deluxe-Veggie-Pizza-960x640.jpg);
-/*     background-repeat: repeat; */
+    background-repeat: repeat;
 }
 .cont{
     /* width: 95vw; */
